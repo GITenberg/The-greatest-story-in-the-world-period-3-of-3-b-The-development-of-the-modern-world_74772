@@ -1,0 +1,33 @@
+_repo: The-greatest-story-in-the-world-period-3-of-3-b-The-development-of-the-modern-world_74772
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hutchinson, Horace G. (Horace Gordon)
+    alias: Hutchinson, Horatio Gordon
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '38825'
+    url: http://www.gutenberg.org/2009/agents/38825
+    wikipedia: https://en.wikipedia.org/wiki/Horace_Hutchinson
+description: ''
+gutenberg_issued: '2024-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74772'
+language: en
+pgterms:marc904: https://archive.org/details/greateststoryinw0000hora
+pgterms:marc905: 20241101112626hutchinson
+pgterms:marc906: '1926'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bJohn Murray, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World history'
+- !lcc 'D'
+- GITenberg
+title: 'The greatest story in the world, period 3 (of 3) : $b The development of the
+  modern world'
+url: http://www.gutenberg.org/ebooks/74772
